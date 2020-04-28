@@ -1,0 +1,25 @@
+*{margin:0;padding: 0}
+body{background: #c4cacd;font-family: arial}
+.container{margin: auto;width: 800px;}
+/* Start of Header */
+header{margin-top: 5px;}
+header img{width: 800px}
+/* End of Header */
+
+/* Start of Article */
+article{background: #fff;padding: 20px}
+article img{margin-bottom: 10px}
+article p{font-size: 12px;margin-bottom: 30px}
+article .program{overflow: hidden;}
+article .program .programLeft{float: left;width: 250px}
+article .program .programTitle{text-align: center;}
+article .program .programTitle img{width: 90px}
+article .store img{width: 100px}
+/* End of Article */
+
+/*Start of Footer*/
+footer{background: #2ecc40;padding: 5px;overflow: hidden;}
+footer .footerLeft p{line-height: 50px;font-size: 13px;color: #fff}
+footer .footerLeft{float: left;width: 400px}
+footer .footerRight{float: right;width: 100px}
+footer .footerRight img{width: 70px;}
